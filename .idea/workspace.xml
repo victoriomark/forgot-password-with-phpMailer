@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf2a3b0b-83cc-495c-ad39-2193e99b88f3" name="Changes" comment="" />
+    <list default="true" id="bf2a3b0b-83cc-495c-ad39-2193e99b88f3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conrollers/forgot_passController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/conrollers/forgot_passController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/forgot_password.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/forgot_password.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/create-new-password.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/create-new-password.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,8 +19,12 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/conrollers/forgot_passController.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/views/create-new-password.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/views/forgot-password.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/views/verification-code.php" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
   </component>
@@ -40,6 +49,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;L:/Downloads/Forgot-password&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -77,7 +87,8 @@
       <workItem from="1739062732298" duration="6392000" />
       <workItem from="1739083801347" duration="7059000" />
       <workItem from="1739091366065" duration="6848000" />
-      <workItem from="1739098238618" duration="2980000" />
+      <workItem from="1739098238618" duration="3500000" />
+      <workItem from="1739112720611" duration="7073000" />
     </task>
     <servers />
   </component>
